@@ -3,15 +3,15 @@
 	"medical":[
 		{
 			"course_name":"digestion_system",
-			"length":5
+			"length":"5"
 		},
 		{
 			"course_name":"respiratory_system",
-			"length":10
+			"length":"5"
 		},
 		{
 			"course_name":"kidneys",
-			"length":7
+			"length":"7"
 		}
 	]
 	
