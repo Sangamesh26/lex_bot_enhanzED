@@ -1,18 +1,6 @@
 {
 	"institution":"JSS Medical College",
-	"medical":[
-		{
-			"course_name":"digestion_system",
-			"length":"5"
-		},
-		{
-			"course_name":"respiratory_system",
-			"length":"5"
-		},
-		{
-			"course_name":"kidneys",
-			"length":"7"
-		}
-	]
-	
+	"course":"respiratory",
+	"teacher":"Dr.john",
+	"serious":"example_to_learn_json"	
 }
